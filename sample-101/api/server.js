@@ -3,6 +3,7 @@ require('dotenv').config();
 const http = require('http');
 const cors = require('cors');
 const express = require('express');
+const logger = require('../config/logger');
 
 const app = express();
 const port = process.env.PORT || 3000;
@@ -18,4 +19,4 @@ app.use(express.urlencoded({ extended: false }));
 app.use('/api/v1', apiRoutes);
 
 const server = http.createServer(app);
-server.listen(port, () => console.log(`Server listening on port:${port}`));
+server.listen(port, () => logger.info(`Server listening on port:${port}`));

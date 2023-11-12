@@ -1,6 +1,6 @@
-const winston = require('winston');
-
+/* eslint-disable import/no-extraneous-dependencies */
 require('winston-daily-rotate-file');
+const winston = require('winston');
 
 const levels = {
     error: 0,

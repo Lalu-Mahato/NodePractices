@@ -1,0 +1,61 @@
+bmId,bmJoindate,bmName,createdAt,password,role,userName
+S0003,null,Ravi Kumar R,2023-03-01T19:16:51.058Z,$2b$10$JLhvY3FH80alA3LIobuUR.hLHzoZ6yUH.6GWGr9AKNZoaT8dwP86e,branchmanager,bmanekal01
+S0011,null,Ravi H,2023-03-01T19:16:51.058Z,$2b$10$BxxH3pEIlG5uM2nL9/oqmuARHBl2AuLsDE5kXGjng.Y5nGzxe7kWe,branchmanager,bmkengeri01
+S0674,null,Dhanlakshmi M,2023-03-01T19:16:51.058Z,$2b$10$f7gs4/3hfKt3gElHZgLU3.GarlVIduekUACtafdY.wJ3msuyt0vHq,branchmanager,bmdommasandraeast01
+S0117,null,Santhosh Kumar S P,2023-03-01T19:16:51.058Z,$2b$10$XB7HI93bhIvtFoHm4LDLMeVOx5fn7pH4AW.YWuRu056TXB4UrpYoS,branchmanager,bmmandya101
+S0824,null,Sunil T G,2023-03-01T19:16:51.058Z,$2b$10$L9HjP2Rshno4QxiUYv7Rv.uSwLvcTAjwKmFOeFKhLbmgesENHjR0S,branchmanager,bmmysore201
+S0157,null,Gururaj H S,2023-03-01T19:16:51.058Z,$2b$10$tbV/oEb7.8MFGaH0q6.EQ.eDAXjIicuqIySTEhqky1yPc04bWgI5O,branchmanager,bmbidadi01
+S01128,null,Natesha P R,2023-03-01T19:16:51.058Z,$2b$10$vnKS6MN9FG4vNX1wLEcwT.SdbvHBIhMZ6JL.7Vz2RuFC8rzOzYECi,branchmanager,bmtiptur01
+S0050,null,Anil S,2023-03-01T19:16:51.058Z,$2b$10$74hB4pwPRKHn6ye3po62SO8ngQRssypBYMkf9oQbrpZ2BwSBU8zK2,branchmanager,bmtumkur101
+S0126,null,Venkatesh S,2023-03-01T19:16:51.058Z,$2b$10$my16Qsgm6/gYwYSj41P2NuH/2ottgiXrifCgtLcZ.kppH6ftUQohm,branchmanager,bmbillapurasr01
+S01010,null,Nagendra H P,2023-03-01T19:16:51.058Z,$2b$10$rb6zsAvlccS8jTYeCp6vuux0ARytTBS3Mg8ysNrOULcy3aYQ4T1rm,branchmanager,bmchikkaballapur101
+S0510,null,Sunil M,2023-03-01T19:16:51.058Z,$2b$10$MV3E6R4xuEMb6H5Wq/h1A.cU3q9iUd6SHgjeqxiogPFMZ/6/OfXdy,branchmanager,bmchikmagalur01
+S0147,null,Jagadeesha S S,2023-03-01T19:16:51.059Z,$2b$10$G7wzpzKGsx4EjDiT9I95cekTskDS1XuvlNT7/UivlJUPSyYS926gK,branchmanager,bmmysore101
+S0886,null,Arun S,2023-03-01T19:16:51.059Z,$2b$10$UE1N0ABOnnAr4YfmKFZbZeHKui3k057upoWylywm1TSGgYJaPrxJi,branchmanager,bmhassan101
+S01231,null,Somesh V,2023-03-01T19:16:51.059Z,$2b$10$bG0xVFn53eKKT78PwhMXZOaVOmrLCHwmg44NirmGKPXl2L2AuibQm,branchmanager,bmhunsur01
+S0153,null,Adarsh H,2023-03-01T19:16:51.059Z,$2b$10$WAGrhwwV4k9zFI8CAJmIo.E5feWXsqKfm7yH4ZBk.b7yuYX92Gj7u,branchmanager,bmhebbal01
+S0518,null,Rohith C G,2023-03-01T19:16:51.059Z,$2b$10$BMBf93MHVOMW64iJY3oNAOUZkJ4KzxRaZyYGBlLzYPVSCHO1VM3j6,branchmanager,bmchannarayapatna01
+S01161,null,Ningamade Gowda,2023-03-01T19:16:51.059Z,$2b$10$Qf98Dq4wVX9BmCbcTJfHpOvqHnxeQ/3FIkIM2Xqi.8StX05YsgIPi,branchmanager,bmchannapatna01
+S0469,null,Raghavendra M,2023-03-01T19:16:51.061Z,$2b$10$byHJNmI/pxHw8rPdN6szHuHBbHUvciiybxBVJChgqbr/QBYw7WrEq,branchmanager,bmjpnagar01
+S0052,null,Arun Kumar M R,2023-03-01T19:16:51.064Z,$2b$10$K9/6RuypObGmwJv8A3Od6uHZADFYWLR34QDKWgHBPrICQdLo2wXcq,branchmanager,bmkunigal01
+S0384,null,Somalingappa M Appoji,2023-03-01T19:16:51.067Z,$2b$10$htLzS/XgSiDGnxLY6SvFoeYQq0PnrOjPNfWxezP45qXKJMOFwozWW,branchmanager,bmchitradurga101
+S0997,null,Ramesha M,2023-03-01T19:16:51.067Z,$2b$10$QqNt98jgJT8P41RHSIcnKuaXeeyHLdTpGPCVMBJ44ibj9XtelbTe6,branchmanager,bmchitradurga201
+S01122,null,Vinayaka G S,2023-03-01T19:16:51.067Z,$2b$10$nq01fSFpzoj6EmPiHxEEVODIc3HcXXAjIjx/8/N5OeCWzTrjZFUOK,branchmanager,bmchitradurga301
+S0412,null,Mahendra Kumar M,2023-03-01T19:16:51.067Z,$2b$10$74LLpEC.tT5Z0S9z9d1Pi.rAIDGVeu14fd/sunomajWcMsGpaFo4O,branchmanager,bmdavangere01
+S01070,null,Kanchikeri Kotresha,2023-03-01T19:16:51.067Z,$2b$10$WEO/83gxrkpfwE7X.FV6qOIl.sgO/kfVZsbaDfwihxt7LRf79PYhu,branchmanager,bmdavangere201
+S0440,null,Shivanand Babugouda Basagoudanavar,2023-03-01T19:16:51.067Z,$2b$10$blNpU/.FTPv9YyjuWbYY7.6mT6ABf6Hdz26A/l7m76iSYkZQU.k1G,branchmanager,bmdharwad01
+S0340,null,Anand Naikar,2023-03-01T19:16:51.067Z,$2b$10$LjSvMskese1WvSAMahJ.G.lQ7soZg0KARNM8wVXgOisdkv8v9Nw1S,branchmanager,bmdharwad201
+S01209,null,Praveen H Kankanavad,2023-03-01T19:16:51.067Z,$2b$10$kHVvuMgCNmdGCurAYhU6U.cqoLqNgN4C8Zz9tcuJwNzN1ey7i.oLu,branchmanager,bmhaveri101
+S0729,null,Kadgauda B,2023-03-01T19:16:51.067Z,$2b$10$gmaZisciMcrkwPcy53XxqOg8lDI8I0peVi.kayoAjnAB8429xXtHG,branchmanager,bmhaveri201
+S01108,null,Ajit B Kambar,2023-03-01T19:16:51.076Z,$2b$10$pqBB3ZsBsvigAt1LO/6j.eLpEF1vcvm4Ophvw1YU3NwgOodIHOcK.,branchmanager,bmbagalkot101
+S0542,null,Mahadev Ramkrishna Kambar,2023-03-01T19:16:51.076Z,$2b$10$zRFsmC0/t1Xh550E/UA8p.suFJx7CePx8/5NmsX13MeFl996Yzctm,branchmanager,bmbelgaum101
+S0829,null,Samruddhi Ritesh Ranasubhe,2023-03-01T19:16:51.076Z,$2b$10$V403ohmvGNM7PD9PXLwV3.S0XIKGOHnR8zMNWhMVe.0y6WTVhT86W,branchmanager,bmbelgaum201
+S0664,null,Parashurama N,2023-03-01T19:16:51.076Z,$2b$10$Pozwwucz7mnfV9erKrWxcOfoudBCkBek9VhVJMxGvnTnWFllCx/OW,branchmanager,bmballari101
+S01117,null,Manjunatha M,2023-03-01T19:16:51.076Z,$2b$10$ofkcYVI543ZCUpqPHzsigumNw55OKa1Lzwbfoiku8bXh7avuxzQja,branchmanager,bmballari201
+S01183,null,Ravi Kumar M K,2023-03-01T19:16:51.077Z,$2b$10$rpsaCG5RCf7KnOucAH9lU.heYZ/OkmDS6W.isCnQ9bIzI1puYercW,branchmanager,bmdoddaballapur01
+S0610,null,Veerappa,2023-03-01T19:16:51.077Z,$2b$10$1grlfH9J1RNR6K4f/qwudORGRXMBd9L4LqBmVsAe.kwGBHpC0hSBS,branchmanager,bmgulbarga101
+S0863,null,Basavaraj G,2023-03-01T19:16:51.077Z,$2b$10$qkPaBJ1YnGStqmc2aGafieZA8A1rrxOjR.fn0O7CGWmBhWrQ/KK4q,branchmanager,bmkoppal101
+S0953,null,Rajashekhara G,2023-03-01T19:16:51.077Z,$2b$10$3sTqlmFowDza0VUTyHSGiORzv7mBlESkVg4fkFx89Ecfr.t5EevXq,branchmanager,bmraichur101
+S0741,null,Maruthi D R,2023-03-01T19:16:51.078Z,$2b$10$Gg.WqnPCu4kzjJyS39u4EeXH5oqPdLjuiriLMYU.pzP7jMojJKU0S,branchmanager,bmshimoga101
+S0595,null,Juned Ulla Khan,2023-03-01T19:16:51.078Z,$2b$10$Ac.nSfbIbGh/3Ny2lxie1OGcFLVEnI1eE3IWxopgVhB..HueWFVC2,branchmanager,bmshimoga201
+S0596,null,Sunilkumar B C A,2023-03-01T19:16:51.091Z,$2b$10$49UFPuZi6gGr8PLnZCEBk.Tp3FmKuP8.dH9QqTn7MWBrg7V3lqwj2,branchmanager,bmkadur101
+S0779,null,Afroz Ahamad Byadagi,2023-03-01T19:16:51.091Z,$2b$10$cL/Voider94Oig6ukNPHQ.AZg4cy0xLaG6X.BeED0O7JVnBEv31Py,branchmanager,bmhoskote101
+S0656,null,SHRIKANTH,2023-03-01T19:16:51.092Z,$2b$10$mP9ZzgxWp5pLC2y3BaShdOuHFBlUVaehcJhHp5jjdrD96pMdY7I2O,branchmanager,bmkoppal201
+S01021,null,Venkatesh,2023-03-01T19:16:51.092Z,$2b$10$iHPK92rtJiR8snEiB5Lsf.Lf1B8auKUx/klqKPfEddNhbRYEPANLC,branchmanager,bmraichur201
+S0689,null,Arjun Gollar,2023-03-01T19:16:51.092Z,$2b$10$2El/p0BzcYPyZ5OUS1tfAe8EVQ8Zox1Kplqdvu3Jx4sbpxi0tN81O,branchmanager,bmkarwar101
+S0753,null,Santhosh Kumar Nandihal,2023-03-01T19:16:51.092Z,$2b$10$whF.DOkmubIWIuAKzuNS1OIeA7dmurzRtjaYa6oTh5I9HjRFTdpsW,branchmanager,bmgulbarga201
+S0704,null,Mahboob Mujawar,2023-03-01T19:16:51.092Z,$2b$10$5N5EwR2rsrUoKCX/OtUeoez28dO6nxa4WNQrZaXRveZ3ljOv/fAQi,branchmanager,bmsolapur101
+S0681,null,SUNIL,2023-03-01T19:16:51.092Z,$2b$10$2b2.5.iMSsKsDl0gS6zlouzWZ6HPZM/RWy4sRJrTRmUhr4X4mBZAS,branchmanager,bmkolhapur101
+S0739,null,Dhanu Balu Pawar,2023-03-01T19:16:51.092Z,$2b$10$Ay9rjcpn/nMoJMKX6KgxuOEP.pld3IdNbzeZlvh6Ic4db92TemfWC,branchmanager,bmmohol101
+S01030,null,Chetan Kashappa Sanadi,2023-03-01T19:16:51.092Z,$2b$10$IL2b5d0KJyQS6gvWfvki/.tx4dkPj9bJoalA2tgF3c.b/gsq1UmKK,branchmanager,bmsangli101
+S01033,null,Pravin Jadhav,2023-03-01T19:16:51.113Z,$2b$10$Ra.kpgpyd.cJ5BJYckT6VeUWnPAIdjZDuOnv8XgiEAvURCOyTYuIm,branchmanager,bmsatara101
+S0871,null,Digambar Arun Kolhale,2023-03-01T19:16:51.116Z,$2b$10$WX5jC473cwhsAuN5loV9o.7JYb/8ELsJZB1eoFRRVB9rgT6Ic2uaW,branchmanager,bmshirol201
+S0870,null,Sagar Dilip Bhise,2023-03-01T19:16:51.116Z,$2b$10$EahmU.NiPteB8mixW7a.8.6Xokmx5iBQM9rmnV.mVkp7fLEjlxvgS,branchmanager,bmshirol101
+S0878,null,Vijay Ghatage,2023-03-01T19:16:51.116Z,$2b$10$sXrBg2.Bux59IUgb9sdIsO3SpUE.6mKLHujXAvXZMkOAczuwPp8Oe,branchmanager,bmkarad101
+S01113,null,Vijay Badade,2023-03-01T19:16:51.116Z,$2b$10$yxFRqd0/AA9RqKud4lLFCeyng0zoozLFIZiRvyBzXsVGZ2KtgtHQu,branchmanager,bmwarjepune101
+S01159,null,Vinayak Koli,2023-03-01T19:16:51.119Z,$2b$10$HhuZnjx6AjXy1oYu8il/je7ADlAIMCKuhqNZ0096.JxHgGULetIPy,branchmanager,bmgadhinglaj101
+S0995,null,Snehal Sudhir Chougule,2023-03-01T19:16:51.119Z,$2b$10$OJsAMa8d5EszhxiKBMEGqegZ83YHWPwyEFORJ4s/gmBUEtT2Dl3GK,branchmanager,bmislampur101
+S01180,null,SOMNATH BHONDAVE,2023-03-01T19:16:51.120Z,$2b$10$lL6ICFrDENot3V8/lZLW6uk744qCcCqr1s/EE9xN5p7V4GUwBT8Wa,branchmanager,bmindapurpune101
+S0029,null,Sharath A,2023-03-01T19:16:51.169Z,$2b$10$tCmDU0lNNsIyWBRZvNxUIutBhB3ZiJwraqnUytT0fZxEvaLM7lEOu,branchmanager,bmkengeri201
+S01183,null,Ravi Kumar M K,2023-06-30T15:05:00.815Z,null,branchmanager,null
+null,null,,2023-07-14T05:03:31.961Z,null,branchmanager,null

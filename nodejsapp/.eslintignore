@@ -1,0 +1,11 @@
+node_modules/*
+public/*
+build/*
+dist/*
+config/*
+modules/*
+app/database/*
+__tests__
+package.json
+package-lock.json
+.env

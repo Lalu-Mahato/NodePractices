@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Status Monitor</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body>
+    <div>
+        <canvas id="cpuChart"></canvas>
+    </div>
+    <div>
+        <canvas id="memoryChart"></canvas>
+    </div>
+    <!-- Add more chart containers as needed -->
+
+    <script>
+        fetch('/status')
+            .then(response => response.json())
+            .then(data => {
+                // CPU Chart
+                new Chart(document.getElementById('cpuChart'), {
+                    type: 'doughnut',
+                    data: {
+                        labels: ['CPU Usage', 'CPU Idle'],
+                        datasets: [{
+                            data: [data.cpu, 100 - data.cpu],
+                            backgroundColor: ['#FF6384', '#36A2EB'],
+                        }],
+                    },
+                });
+
+                // Memory Chart
+                new Chart(document.getElementById('memoryChart'), {
+                    type: 'doughnut',
+                    data: {
+                        labels: ['Used Memory', 'Free Memory'],
+                        datasets: [{
+                            data: [data.memory, 100 - data.memory],
+                            backgroundColor: ['#FF6384', '#36A2EB'],
+                        }],
+                    },
+                });
+
+                // Add more charts as needed
+            })
+            .catch(error => console.error('Error fetching status data:', error));
+    </script>
+</body>
+
+</html>
